@@ -1,0 +1,18 @@
+.route-content-wrapper{
+    display: flex;
+    justify-content: center;
+    height: min(93vh);
+    background-color: #eee;
+    margin: 0;
+    padding: 0;
+}
+
+.route-content{
+    width: 100%;
+    background-color: #fff;
+    margin-top: 1.5em;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    padding: 1em;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}

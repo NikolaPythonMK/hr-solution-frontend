@@ -1,0 +1,14 @@
+.error-page-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.error-page-text{
+    font-size: 4rem;
+}
+
+.error-page-link{
+    font-size: 2rem;
+}
